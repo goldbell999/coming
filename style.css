@@ -4,3 +4,4 @@
 @media(max-width:560px){.menu-toggle{display:block;margin-left:14px;color:var(--ink);cursor:pointer}.main-nav{display:none;position:absolute;top:66px;left:0;right:0;padding:8px 6% 16px;background:var(--paper);border-bottom:1px solid var(--line);box-shadow:0 12px 20px #14211a12}.main-nav.nav-open{display:flex;justify-content:flex-start}.main-nav .nav-link{height:46px}}
 .csl-section{padding-top:12px;padding-bottom:64px}.csl-embed{width:100%;min-height:360px;background:#fff;border:1px solid var(--line);overflow:hidden}.lb24-iframe{display:block;width:100%;min-height:360px;border:0}
 @media(max-width:560px){.csl-section{padding-top:0;padding-bottom:48px}.csl-embed,.lb24-iframe{min-height:500px}}
+.csl-live{min-height:360px;padding:18px}.csl-live #LB24_LIVE_CONTENT{min-height:320px}
